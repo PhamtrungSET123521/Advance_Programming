@@ -1,0 +1,1003 @@
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\build.props
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\adb.props
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.csprojAssemblyReference.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res.flag
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\13\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\33\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\34\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\39\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\TestProject1.Android.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\TestProject1.Android.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1.apk
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1.aab
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1-Signed.aab
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1-Signed.apk
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1-Signed.apk.idsig
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\TestProject1.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\bin\Debug\TestProject1.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\R.txt
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\R.cs.flag
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.csproj.CoreCompileInputs.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.csproj.CopyComplete
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\com.companyname.testproject1.apk
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\base.zip
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\com.companyname.testproject1.aab
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\com.companyname.testproject1.apks
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\layout\tabbar.xml
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\layout\toolbar.xml
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\values\styles.xml
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\values\colors.xml
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\res\drawable\loginicon.png
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\uploadflags.txt
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\resolvedassemblies.hash
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Mono.Android.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Mono.Security.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\mscorlib.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\mscorlib.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\netstandard.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Core.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Core.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Data.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Data.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Numerics.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Runtime.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Transactions.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Xml.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Xml.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\TestProject1.Android.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\TestProject1.Android.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\TestProject1.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\TestProject1.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.x86.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.x86_64.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.shared.inc
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\AndroidManifest.xml
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\__environment__.txt
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\machine.config
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\mono.android.jar
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\static.flag
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\buildid.txt
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.arm64-v8a.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.x86.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.x86_64.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\compat\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\design\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\transition\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64cdf5af4da5fe3ae9\MainActivity.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\packaged_resources
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\src\com\companyname\testproject1\R.java
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.x86.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.x86_64.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.arm64-v8a.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.x86.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.x86_64.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\classes.dex
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\14\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\18\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\20\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\27\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\31\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\35\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\lp\40\jl\files.cache
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLite-net.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Buffers.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Memory.dll
+E:\Year 5\Semester 1\Advanced programe\Xamarin\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\TestProject1.Android.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\TestProject1.Android.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1.apk
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1.aab
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1-Signed.aab
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1-Signed.apk
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\com.companyname.testproject1-Signed.apk.idsig
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\TestProject1.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\bin\Debug\TestProject1.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\build.props
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\adb.props
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.csprojAssemblyReference.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res.flag
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\13\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\14\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\18\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\20\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\27\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\31\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\33\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\34\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\35\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\39\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\lp\40\jl\files.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\R.txt
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\R.cs.flag
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.csproj.CoreCompileInputs.cache
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.csproj.CopyComplete
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\TestProject1.Android.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\com.companyname.testproject1.apk
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\com.companyname.testproject1.aab
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\com.companyname.testproject1.apks
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\res\drawable\loginicon.png
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Buffers.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Memory.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\TestProject1.Android.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\TestProject1.Android.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\TestProject1.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\TestProject1.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\__environment__.txt
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\static.flag
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\buildid.txt
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64cdf5af4da5fe3ae9\MainActivity.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\src\com\companyname\testproject1\R.java
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Duy Hung\Desktop\TestProject1\TestProject1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp

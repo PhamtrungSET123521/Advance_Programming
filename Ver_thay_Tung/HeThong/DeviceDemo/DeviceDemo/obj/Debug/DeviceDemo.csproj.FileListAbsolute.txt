@@ -1,0 +1,60 @@
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csprojAssemblyReference.cache
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.g.cs
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\App.g.cs
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.cache
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.lref
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe.config
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.pdb
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.dll
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.pdb
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\VstJson.pdb
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.pdb
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.pdb
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.baml
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.g.resources
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.Properties.Resources.resources
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.GenerateResource.cache
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CoreCompileInputs.cache
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CopyComplete
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.exe
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.pdb
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.g.cs
+D:\Programming\HeThong\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.baml
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe.config
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.pdb
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.dll
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.dll
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.pdb
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\VstJson.pdb
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.pdb
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.pdb
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.xml
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csprojAssemblyReference.cache
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.g.cs
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.g.cs
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\App.g.cs
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.cache
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.lref
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.baml
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.baml
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.g.resources
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.Properties.Resources.resources
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.GenerateResource.cache
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CoreCompileInputs.cache
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CopyComplete
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.exe
+D:\kstn\Laptrinh nangcao\HeThong\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.pdb

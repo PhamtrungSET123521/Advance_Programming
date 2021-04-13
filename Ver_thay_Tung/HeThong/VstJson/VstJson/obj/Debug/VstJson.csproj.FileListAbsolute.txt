@@ -1,0 +1,25 @@
+D:\Programming\VstJson\VstJson\bin\Debug\VstJson.dll
+D:\Programming\VstJson\VstJson\bin\Debug\VstJson.pdb
+D:\Programming\VstJson\VstJson\bin\Debug\Newtonsoft.Json.pdb
+D:\Programming\VstJson\VstJson\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Programming\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.dll
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.pdb
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache
+C:\Users\Duy Hung\Downloads\HeThong\VstJson\VstJson\bin\Debug\VstJson.dll
+C:\Users\Duy Hung\Downloads\HeThong\VstJson\VstJson\bin\Debug\VstJson.pdb
+C:\Users\Duy Hung\Downloads\HeThong\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache
+C:\Users\Duy Hung\Downloads\HeThong\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+C:\Users\Duy Hung\Downloads\HeThong\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+C:\Users\Duy Hung\Downloads\HeThong\VstJson\VstJson\obj\Debug\VstJson.dll
+C:\Users\Duy Hung\Downloads\HeThong\VstJson\VstJson\obj\Debug\VstJson.pdb
+C:\Users\Duy Hung\Desktop\HeThong\VstJson\VstJson\bin\Debug\VstJson.dll
+C:\Users\Duy Hung\Desktop\HeThong\VstJson\VstJson\bin\Debug\VstJson.pdb
+C:\Users\Duy Hung\Desktop\HeThong\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache
+C:\Users\Duy Hung\Desktop\HeThong\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+C:\Users\Duy Hung\Desktop\HeThong\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+C:\Users\Duy Hung\Desktop\HeThong\VstJson\VstJson\obj\Debug\VstJson.dll
+C:\Users\Duy Hung\Desktop\HeThong\VstJson\VstJson\obj\Debug\VstJson.pdb
